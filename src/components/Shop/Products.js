@@ -9,7 +9,7 @@ const PRODUCTS = [
 		description: "my very own e-book",
 	},
 	{
-		id: "p1",
+		id: "p2",
 		price: 5,
 		title: "my mobile",
 		description: "my very own mobile",
